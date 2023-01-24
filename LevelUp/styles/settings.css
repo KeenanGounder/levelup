@@ -1,0 +1,10 @@
+.settings-container{
+    margin-top: 1rem;
+}
+
+
+button{
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+}

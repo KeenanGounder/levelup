@@ -1,0 +1,21 @@
+                    <div class="update">
+                        <span class="material-icons-sharp">fitness_center</span>
+                        <div class="message">
+                            <p><b>Gym</b> recently completed 15 minutes of excercise.</p>
+                            <small class="text-muted">5 Hours Ago</small>
+                        </div>
+                    </div>
+                    <div class="update">
+                            <span class="material-icons-sharp">water_drop</span>
+                        <div class="message">
+                            <p><b>Water</b> recently drank 1 litre of water.</p>
+                            <small class="text-muted">12 Hours Ago</small>
+                        </div>
+                    </div>
+                    <div class="update">
+                        <span class="material-icons-sharp">hotel</span>
+                        <div class="message">
+                            <p><b>Sleep</b> recently completed 8 Hours of sleep.</p>
+                            <small class="text-muted">1 Day Ago</small>
+                        </div>
+                    </div>
